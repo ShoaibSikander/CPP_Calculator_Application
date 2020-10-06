@@ -1,0 +1,6 @@
+﻿  calculator.cpp
+  main.cpp
+D:\Work_CPP\CPP_Calculator_Application\CPP_Calculator_Application\main.cpp(22,42): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\Work_CPP\CPP_Calculator_Application\CPP_Calculator_Application\calculator.cpp(68): warning C4715: 'Calc::process': not all control paths return a value
+  CPP_Calculator_Application.vcxproj -> D:\Work_CPP\CPP_Calculator_Application\Debug\CPP_Calculator_Application.exe
